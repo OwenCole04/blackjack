@@ -24,7 +24,7 @@ public class  BlackJack
             Thread.sleep(3000);
          }
          
-         System.out.println(deck.size());
+         System.out.println("Cards in deck: " + deck.size());
          
          //asks user what they want to bet
          boolean done = false;
